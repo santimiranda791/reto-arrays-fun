@@ -16,7 +16,7 @@ public class TallerArreglos {
 
         // 4. Calcular el promedio
         double promedio = calcularPromedio(numeros);
-        System.out.println("El promedio es: " + promedio);
+        System.out.println("El promedio es:  " + promedio);
 
         // 5. Invertir el arreglo
         invertirArreglo(numeros);
